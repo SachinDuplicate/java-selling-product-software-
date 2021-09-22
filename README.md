@@ -1,1 +1,1 @@
-# java-GUI-
+# java-GUI-software for selling product
